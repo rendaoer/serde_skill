@@ -8,7 +8,7 @@ repository = "https://github.com/yourusername/serde_skill"
 documentation = "https://docs.rs/serde_skill"
 readme = "README.md"
 keywords = ["serde", "frontmatter", "skill", "parser"]
-categories = ["parsing", "encoding", "serialization"]
+categories = ["parsing", "encoding", "parser-implementations"]
 
 [dependencies]
 serde = "1.0"
