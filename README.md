@@ -2,7 +2,6 @@
 
 [![Crates.io](https://img.shields.io/crates/v/serde_skill.svg)](https://crates.io/crates/serde_skill)
 [![Docs.rs](https://docs.rs/serde_skill/badge.svg)](https://docs.rs/serde_skill)
-[![CI](https://github.com/yourusername/serde_skill/workflows/CI/badge.svg)](https://github.com/yourusername/serde_skill/actions)
 
 A lightweight, serde-compatible library for parsing and serializing skills in frontmatter format.
 
