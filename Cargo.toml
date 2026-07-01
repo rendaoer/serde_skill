@@ -1,6 +1,6 @@
 [package]
 name = "serde_skill"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A lightweight frontmatter + content parser for Skill format, with serde support"
 license = "MIT OR Apache-2.0"
